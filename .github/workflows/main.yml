@@ -20,6 +20,7 @@ jobs:
         inlineScript: |
           az account show
           az storage -h
+          
 # on: [push]
 
 # name: AzureLoginSample
